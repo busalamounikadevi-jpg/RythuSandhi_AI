@@ -1,0 +1,6 @@
+{
+  "name": "RythuSandhi AI",
+  "description": "Pre-Harvest Buyer Connect & Advisory Platform for rural agricultural farmers",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
