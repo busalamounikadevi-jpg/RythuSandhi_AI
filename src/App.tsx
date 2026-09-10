@@ -150,7 +150,7 @@ export default function App() {
     // 2. Make an asynchronous POST fetch request to the server agronomist API
     // Passing query, full conversation history, language, and farmerId
     try {
-      const response = await fetch('/api/chat', {
+      const response = await fetch('https://rythusetu-api-1041209551164.us-central1.run.app/api/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
